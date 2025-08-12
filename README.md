@@ -1,3 +1,3 @@
-##OAF Research
+## OAF Research
 
 VIX and volatility arbitrage
